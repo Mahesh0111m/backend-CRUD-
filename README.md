@@ -25,10 +25,10 @@
 
 * Update the following properties to match your PostgreSQL setup:
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/registration_db
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
+* spring.datasource.url=jdbc:postgresql://localhost:5432/registration_db
+* spring.datasource.username=your_username
+* spring.datasource.password=your_password
+* spring.jpa.hibernate.ddl-auto=update
 
 5. Open the Project in IntelliJ IDEA:
 
