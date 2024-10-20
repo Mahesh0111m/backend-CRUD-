@@ -7,5 +7,4 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Repository
 public interface RegistrationRepository extends JpaRepository<Registration,Integer> {
-
 }
